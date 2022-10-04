@@ -19,8 +19,8 @@
 
 ## Links
 
-[PR](https://github.com/SdMartinez13/caps/pull/1)
-[Repo](https://github.com/SdMartinez13/caps)
+* [PR](https://github.com/SdMartinez13/caps/pull/1)
+* [Repo](https://github.com/SdMartinez13/caps)
 
 ## UML
 
