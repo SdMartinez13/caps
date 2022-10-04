@@ -3,7 +3,7 @@
 const eventPool = require('./eventPool.js');
 const handleVendor = require('./vendor/handleVendor');
 const handleDriver = require('./driver/handleDriver');
-// const logger = require('./logger');
+const logger = require('./logger');
 const chance = require('./chance.js');
 
 // const chance = new Chance;
