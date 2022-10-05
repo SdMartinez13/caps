@@ -12,3 +12,6 @@ let person = {
 }
 
 console.log(person);
+
+
+module.exports = chance;
