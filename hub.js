@@ -1,8 +1,8 @@
 'use strict';
 
-const eventPool = require('./eventPool.js');
-const handleVendor = require('./vendor/handleVendor');
-const handleDriver = require('./driver/handleDriver');
+const eventPool = require('./src/eventPool.js');
+const handleVendor = require('./src/vendor/handleVendor');
+const handleDriver = require('./src/driver/handleDriver');
 const logger = require('./logger');
 const chance = require('./chance.js');
 
